@@ -1,5 +1,5 @@
 baseURL: "https://figgy.foo/"
-title: Just a site
+title: figgy.foo
 paginate: 5
 theme: PaperMod
 
@@ -20,27 +20,23 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: Figgy.Foo
-  description: "Just a site"
-  keywords: []
-  author: "Fig"
+  title: figgy.foo
+  description: "A site"
+  keywords: [internet]
+  author: "Fig Foo"
   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
-  #editPost:
-#    URL: "https://github.com/efigueroa/figsystems/content"
-#    Text: "Suggest Changes" # edit text
-#    appendFilePath: true # to append file path to Edit link
 
-  ShowReadingTime: false
-  ShowShareButtons: true
+  ShowReadingTime: true
+  ShowShareButtons: false
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: true
   ShowWordCount: false
   ShowRssButtonInSectionTermList: true
-  UseHugoToc: no
+  UseHugoToc: false
   disableSpecial1stPost: false
   disableScrollToTop: false
   comments: false
@@ -59,14 +55,22 @@ params:
     safari_pinned_tab: "<link / abs url>"
 
   label:
-    text: ""
+    text: "figgy.foo"
     icon: /apple-touch-icon.png
     iconHeight: 35
 
   # home-info mode
   homeInfoParams:
     Title: "Hi there \U0001F44B"
-    Content: Self hosted site for Figs
+    Content: A blog for foos
+
+  analytics:
+    google:
+      SiteVerificationTag: "XYZabc"
+    bing:
+      SiteVerificationTag: "XYZabc"
+    yandex:
+      SiteVerificationTag: "XYZabc"
 
   cover:
     hidden: true # hide everywhere but not in structured data
