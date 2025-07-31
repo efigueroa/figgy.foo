@@ -1,1 +1,1 @@
-Just my website hosted at https://figgy.foo
+# https://figgy.foo
