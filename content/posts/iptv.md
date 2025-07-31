@@ -117,5 +117,4 @@ You’ll need to sideload it (they’ll show you how), and you’ll add your Xtr
 If you ever need help setting this up, I’m happy to walk you through it. I help out family all the time and can get you running in just a few minutes.
 
 Let me know!  
-– Eduardo
 
