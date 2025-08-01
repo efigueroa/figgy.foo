@@ -122,13 +122,17 @@ Just enter the provided URL, username, and password — you're good to go.
 
 ### 🟢 Easiest Option (Beginner-Friendly)
 
+Please note:
+
+⚠️ ROKU devices are completely __NOT__ supported. ⚠️
+
 For:
 - Fire Stick  
 - Nvidia Shield  
 - Any Android TV box 
 - Or this great little box for $30 the [Onn tv box](https://a.co/d/9j5DTzs)
 
-The IPTV team will give you a code to use with the **Downloader** app. This installs their custom TV app — no fuss, just works.
+The IPTV team will give you a code to use with the **Downloader** app. This installs their custom TV app — no fuss, just works. 
 
 ---
 
