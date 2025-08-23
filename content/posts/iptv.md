@@ -72,8 +72,10 @@ Send an email to:
 
 **emuteam@proton.me**
 
-Include this message (copy-paste it!):
+Include this message **exactly** as written (copy-paste it!):
 
+> Subject: New Subscription 
+>
 > Hi,  
 > I'm interested in a subscription. I was recommended by the user **coffeenought**.
 
@@ -138,7 +140,7 @@ The IPTV team will give you a code to use with the **Downloader** app. This inst
 
 ### ⚙️ Power User Option: TiviMate
 
-Want advanced features and a slick interface? Try **TiviMate**.
+Want advanced features and a slick interface? Try **[TiviMate]( **.
 
 - Favorite channels & groups  
 - Channel guide (EPG)  
