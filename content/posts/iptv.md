@@ -54,7 +54,7 @@ Plans are billed in Canadian dollars, but here’s a quick breakdown with USD co
 
 1. A **PayPal account** (the only payment method accepted)  
 2. A compatible device:
-   - Fire TV / Android TV box
+   - Fire TV / onn / Android TV box
    - Android or iOS phone/tablet
    - Windows or macOS computer
 
@@ -127,11 +127,14 @@ Just enter the provided URL, username, and password — you're good to go.
 Please note:
 
 ⚠️ ROKU devices are completely __NOT__ supported. ⚠️
+Roku is their own thing and don't have these apps. 
 
 For:
-- Fire Stick  
+- Fire Stick
+- Google Tv
 - Nvidia Shield  
-- Any Android TV box 
+- [Onn](https://www.walmart.com/ip/onn-Google-TV-4K-Streaming-Box-New-2023-4K-UHD-Resolution/2835618394?classType=REGULAR&athbdg=L1102&sid=05357c55-75ec-4a54-8e0a-d13798456cd0)
+- Or any other Android TV box 
 - Or this great little box for $30 the [Onn tv box](https://a.co/d/9j5DTzs)
 
 The IPTV team will give you a code to use with the **Downloader** app. This installs their custom TV app — no fuss, just works. 
