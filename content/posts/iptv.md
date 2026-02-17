@@ -110,7 +110,7 @@ I use it with family and we’ve been really happy.
 
 ## 📱 On Phones, Tablets, or PC
 
-Use the **[Open-TV](https://github.com/Fredolx/open-tv)** app (open source, ad-free):
+Use **[Smarters Players Lite](https://smartersplayerlite.app/download/). free and easy to use. 
 
 - iPhone / iPad  
 - Android phone / tablet  
